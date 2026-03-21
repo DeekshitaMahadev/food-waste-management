@@ -1,0 +1,41 @@
+2025-12-02 11:40:49 | To: foodrelief@example.com | Subject: New Food Donation Available
+2025-12-02 11:40:49 | To: helpinghands@example.com | Subject: New Food Donation Available
+2025-12-02 11:40:49 | To: communitycare@example.com | Subject: New Food Donation Available
+2025-12-02 11:40:49 | To: hopenetwork@example.com | Subject: New Food Donation Available
+2025-12-02 11:40:49 | To: feedingamerica@example.com | Subject: New Food Donation Available
+2025-12-02 11:41:03 | To: foodrelief@example.com | Subject: New Food Donation Available
+2025-12-02 11:41:03 | To: helpinghands@example.com | Subject: New Food Donation Available
+2025-12-02 11:41:03 | To: communitycare@example.com | Subject: New Food Donation Available
+2025-12-02 11:41:03 | To: hopenetwork@example.com | Subject: New Food Donation Available
+2025-12-02 11:41:03 | To: feedingamerica@example.com | Subject: New Food Donation Available
+2025-12-02 11:44:48 | To: bindu@gmail.com | Subject: Your Food Donation Has Been Accepted
+2025-12-02 12:08:58 | To: foodrelief@example.com | Subject: New Food Donation Available
+2025-12-02 12:08:58 | To: helpinghands@example.com | Subject: New Food Donation Available
+2025-12-02 12:08:58 | To: communitycare@example.com | Subject: New Food Donation Available
+2025-12-02 12:08:58 | To: hopenetwork@example.com | Subject: New Food Donation Available
+2025-12-02 12:08:58 | To: feedingamerica@example.com | Subject: New Food Donation Available
+2025-12-05 07:05:33 | To: foodrelief@example.com | Subject: New Food Donation Available
+2025-12-05 07:05:33 | To: helpinghands@example.com | Subject: New Food Donation Available
+2025-12-05 07:05:33 | To: communitycare@example.com | Subject: New Food Donation Available
+2025-12-05 07:05:33 | To: hopenetwork@example.com | Subject: New Food Donation Available
+2025-12-05 07:05:33 | To: feedingamerica@example.com | Subject: New Food Donation Available
+2025-12-05 07:06:28 | To: aishwarya@gmail.com | Subject: Your Food Donation Has Been Accepted
+2025-12-05 07:13:29 | To: bindu@gmail.com | Subject: Your Food Donation Has Been Delivered
+2025-12-09 06:59:04 | To: foodrelief@example.com | Subject: New Food Donation Available
+2025-12-09 06:59:04 | To: helpinghands@example.com | Subject: New Food Donation Available
+2025-12-09 06:59:04 | To: communitycare@example.com | Subject: New Food Donation Available
+2025-12-09 06:59:04 | To: hopenetwork@example.com | Subject: New Food Donation Available
+2025-12-09 06:59:04 | To: feedingamerica@example.com | Subject: New Food Donation Available
+2025-12-09 06:59:50 | To: bindu@gmail.com | Subject: Your Food Donation Has Been Accepted
+2025-12-09 07:00:00 | To: bindu@gmail.com | Subject: Your Food Donation Has Been Delivered
+2026-01-02 06:29:17 | To: foodrelief@example.com | Subject: New Food Donation Available
+2026-01-02 06:29:17 | To: helpinghands@example.com | Subject: New Food Donation Available
+2026-01-02 06:29:17 | To: communitycare@example.com | Subject: New Food Donation Available
+2026-01-02 06:29:17 | To: hopenetwork@example.com | Subject: New Food Donation Available
+2026-01-02 06:29:17 | To: feedingamerica@example.com | Subject: New Food Donation Available
+2026-01-02 11:03:50 | To: foodrelief@example.com | Subject: New Food Donation Available
+2026-01-02 11:03:50 | To: helpinghands@example.com | Subject: New Food Donation Available
+2026-01-02 11:03:50 | To: communitycare@example.com | Subject: New Food Donation Available
+2026-01-02 11:03:50 | To: hopenetwork@example.com | Subject: New Food Donation Available
+2026-01-02 11:03:50 | To: feedingamerica@example.com | Subject: New Food Donation Available
+2026-01-02 11:04:32 | To: bindu@gmail.com | Subject: Your Food Donation Has Been Accepted

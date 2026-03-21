@@ -1,0 +1,8 @@
+# Disable script execution in uploads directory
+php_flag engine off
+
+# Prevent access to .htaccess file itself
+<Files ".htaccess">
+    Order Allow,Deny
+    Deny from all
+</Files>

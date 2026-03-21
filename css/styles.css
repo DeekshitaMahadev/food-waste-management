@@ -1,0 +1,112 @@
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #28a745 !important;
+}
+
+.bg-green {
+    background-color: #28a745 !important;
+}
+
+.text-green {
+    color: #28a745 !important;
+}
+
+.btn-green {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: white;
+}
+
+.btn-green:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+    color: white;
+}
+
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #f1f1f1;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+.countdown-timer {
+    font-weight: bold;
+    color: #dc3545;
+}
+
+.status-badge {
+    font-size: 0.9em;
+}
+
+.status-available {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.status-accepted {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.status-picked {
+    background-color: #007bff;
+    color: white;
+}
+
+.status-delivered {
+    background-color: #28a745;
+    color: white;
+}
+
+.map-container {
+    height: 300px;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.donation-image {
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.analytics-card {
+    height: 100%;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .map-container {
+        height: 200px;
+    }
+    
+    .donation-image {
+        height: 150px;
+    }
+}

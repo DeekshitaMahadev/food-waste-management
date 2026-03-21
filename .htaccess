@@ -1,0 +1,40 @@
+# Disable directory browsing
+Options -Indexes
+
+# Enable URL rewriting
+RewriteEngine On
+
+# Protect sensitive files
+<Files "food_donation_system.sql">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "README.md">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Prevent access to include files directly
+<FilesMatch "^(db|auth_|mailer)\.php$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Set cache control for static assets
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+</IfModule>
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
